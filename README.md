@@ -5,7 +5,7 @@ contains code for training ml model, trained model, code for making api, telgram
 
 API functioning:
 
-<img src="https://github.com/Akshitaj25/Dhaanvi/assets/91695679/4f80628d-8fdb-42b7-9098-181895c22a1b" width="45%" height="45%">
-<img src="https://github.com/Akshitaj25/Dhaanvi/assets/91695679/93cb6b12-0a22-410c-b731-719b5f8bcba2" width="45%" height="45%">
-<img src="https://github.com/Akshitaj25/Dhaanvi/assets/91695679/ae43c9b5-cc05-4a42-8aa8-7c4eacdbf69d" width="45%" height="45%">
-<img src="https://github.com/Akshitaj25/Dhaanvi/assets/91695679/3df2a981-9bf6-4e0f-a982-010b54bd7a51" width="45%" height="45%">
+<img src="https://github.com/Akshitaj25/Dhaanvi/assets/91695679/4f80628d-8fdb-42b7-9098-181895c22a1b" width="48%" height="48%">
+<img src="https://github.com/Akshitaj25/Dhaanvi/assets/91695679/93cb6b12-0a22-410c-b731-719b5f8bcba2" width="48%" height="48%">
+<img src="https://github.com/Akshitaj25/Dhaanvi/assets/91695679/ae43c9b5-cc05-4a42-8aa8-7c4eacdbf69d" width="48%" height="48%">
+<img src="https://github.com/Akshitaj25/Dhaanvi/assets/91695679/3df2a981-9bf6-4e0f-a982-010b54bd7a51" width="48%" height="48%">
