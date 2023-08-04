@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+</head>
+<body>
+    <h1>Prediction Result</h1>
+    <p>Predicted Label: {{ predicted_label }}</p>
+    <h2>Symptoms:</h2>
+    <ul>
+        {% for symptom in symptoms %}
+        <li>{{ symptom }}</li>
+        {% endfor %}
+    </ul>
+    <h2>Treatments:</h2>
+    <ul>
+        {% for treatment in treatments %}
+        <li>{{ treatment }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

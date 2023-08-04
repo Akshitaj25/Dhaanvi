@@ -1,0 +1,61 @@
+{
+    "Bacterial Leaf Blight": {
+        "symptoms": [
+            "Yellowing of leaves.",
+            "Presence of water-soaked lesions on leaves.",
+            "Leaf tips may die back."
+        ],
+        "treatments": [
+            "Remove and destroy infected plants.",
+            "Apply copper-based fungicides."
+        ]
+    },
+    "Brown Spot": {
+        "symptoms": [
+            "Small, circular to oval lesions with brown centers on leaves.",
+            "Yellow halos around the lesions.",
+            "Lesions may merge, causing extensive damage."
+        ],
+        "treatments": [
+            "Apply fungicides containing chlorothalonil or azoxystrobin.",
+            "Ensure proper plant spacing for good air circulation."
+        ]
+    },
+    "Healthy": {
+        "symptoms": [],
+        "treatments": ["No treatment needed as the plant is healthy."]
+    },
+    "Leaf Blast": {
+        "symptoms": [
+            "Diamond-shaped or elliptical lesions with gray centers and dark borders.",
+            "Lesions may cause the leaf to tear.",
+            "Severe infections can lead to defoliation."
+        ],
+        "treatments": [
+            "Apply fungicides containing tricyclazole or pyraclostrobin.",
+            "Plant resistant rice varieties."
+        ]
+    },
+    "Leaf Scald": {
+        "symptoms": [
+            "Long, narrow, water-soaked lesions on leaves.",
+            "Lesions turn white or gray as they age.",
+            "Leaf tips may die and curl."
+        ],
+        "treatments": [
+            "Plant disease-resistant varieties.",
+            "Apply appropriate fungicides as a preventive measure."
+        ]
+    },
+    "Narrow Brown Spot": {
+        "symptoms": [
+            "Long, narrow brown lesions on leaves.",
+            "Lesions may develop gray centers.",
+            "Lesions may coalesce, leading to extensive damage."
+        ],
+        "treatments": [
+            "Plant disease-resistant varieties.",
+            "Apply fungicides containing tricyclazole."
+        ]
+    }
+}
